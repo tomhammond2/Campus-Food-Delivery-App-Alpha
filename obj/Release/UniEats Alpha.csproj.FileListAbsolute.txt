@@ -1,0 +1,24 @@
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\obj\Release\UniEats Alpha.csproj.AssemblyReference.cache
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\obj\Release\UniEats Alpha.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\obj\Release\UniEats_Alpha.BasketForm.resources
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\obj\Release\UniEats_Alpha.FinsihedCheckout.resources
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\obj\Release\UniEats_Alpha.LoginForm.resources
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\obj\Release\UniEats_Alpha.RegisterForm.resources
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\obj\Release\UniEats_Alpha.HomePage.resources
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\obj\Release\UniEats_Alpha.Properties.Resources.resources
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\obj\Release\UniEats_Alpha.Pantry.resources
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\obj\Release\UniEats_Alpha.LibraryCafe.resources
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\obj\Release\UniEats_Alpha.WetherSpoons.resources
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\obj\Release\UniEats_Alpha.SparShop.resources
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\obj\Release\UniEats_Alpha.ViewRestaurants.resources
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\obj\Release\UniEats Alpha.csproj.GenerateResource.cache
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\bin\Release\UniEats Alpha.exe.config
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\bin\Release\UniEats Alpha.exe.manifest
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\bin\Release\UniEats Alpha.application
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\bin\Release\UniEats Alpha.exe
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\bin\Release\UniEats Alpha.pdb
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\obj\Release\UniEats Alpha.csproj.CoreCompileInputs.cache
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\obj\Release\UniEats Alpha.exe.manifest
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\obj\Release\UniEats Alpha.application
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\obj\Release\UniEats Alpha.exe
+C:\Users\tomha\Desktop\Uni GitHub Files\UniEats-Alpha-master\UniEats-Alpha-master\obj\Release\UniEats Alpha.pdb
